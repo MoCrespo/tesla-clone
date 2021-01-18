@@ -20,10 +20,72 @@ function App() {
           backgroundImg={SolarPanels}
           leftBtnTxt='ORDER NOW'
           leftBtnLink=''
-          rightBrnTxt="LEARN MORE"
-          rightBrnLink=''
+          rightBtnTxt="LEARN MORE"
+          rightBtnLink=''
           twoButtons='true'
           first
+        />
+        <Item 
+          title="Model S"
+          desc="Starting at $69,420"
+          descLink=''
+          backgroundImg={ModelS}
+          leftBtnLink=''
+          leftBtnTxt='CUSTOM ORDER'
+          rightBtnTxt='EXISTING INVENTORY'
+          rightBtnLink=''
+          twoButtons='true'
+        />
+        <Item 
+          title="Model 3"
+          desc="Order Online for Touchless Delivery"
+          descLink=''
+          backgroundImg={Model3}
+          leftBtnLink=''
+          leftBtnTxt='CUSTOM ORDER'
+          rightBtnTxt='EXISTING INVENTORY'
+          rightBtnLink=''
+          twoButtons='true'
+        />
+        <Item 
+          title="Model X"
+          desc="Order Online for Touchless Delivery"
+          descLink=''
+          backgroundImg={ModelX}
+          leftBtnLink=''
+          leftBtnTxt='CUSTOM ORDER'
+          rightBtnTxt='EXISTING INVENTORY'
+          rightBtnLink=''
+          twoButtons='true'
+        />
+        <Item 
+          title="Model Y"
+          desc="Order Online for Touchless Delivery"
+          descLink=''
+          backgroundImg={ModelY}
+          leftBtnLink=''
+          leftBtnTxt='CUSTOM ORDER'
+          rightBtnTxt='EXISTING INVENTORY'
+          rightBtnLink=''
+          twoButtons='true'
+        />
+        <Item 
+          title="Solar for New Roofs"
+          desc="Solar Roof Costs Less Than a New Roof Plus Solar Panels"
+          descLink=''
+          backgroundImg={SolarRoof}
+          leftBtnLink=''
+          leftBtnTxt='ORDER NOW'
+          rightBtnTxt='LEARN MORE'
+          rightBtnLink=''
+          twoButtons='true'
+        />
+        <Item 
+          title="Accessories"
+          descLink=''
+          backgroundImg={Accessories}
+          leftBtnLink=''
+          leftBtnTxt='SHOP NOW'
         />
       </div>
     </div>

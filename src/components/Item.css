@@ -6,6 +6,7 @@
     background-size: cover;
     display: flex;
     justify-content: center;
+    scroll-snap-align: start;
 }
 .item__container{
     width: 40vw;
@@ -17,11 +18,12 @@
     margin-top: 20%;
     display: flex;
     flex-direction: column;
-    font-size: 34px;
+    font-size: 27px;
     color: #393c41;
-    flex: 1;
     align-items: center;
+    flex: 1;
 }
+
 .item__textDesc{
     font-weight: 200;
     font-size: 14px;
@@ -39,4 +41,5 @@
     width: 100%;
     margin-top: 3%;
     justify-content: center;
+    display: flex;
 }
