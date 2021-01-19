@@ -22,3 +22,23 @@
 .button__white>a {
     color: black;
 }
+@media(max-width:600px) {
+    .button{
+        width: 220px;
+    }
+}
+@media (max-width:520px) {
+    .button{
+        width: 200px;
+    }
+}
+@media(max-width:450px) {
+    .button{
+        width: 180px;
+    }
+}
+@media(max-width:411px) {
+    .button{
+        width: 150px;
+    }
+}
