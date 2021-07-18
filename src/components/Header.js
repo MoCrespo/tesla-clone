@@ -1,5 +1,3 @@
-import React from 'react'
-import './Header.css'
 import TeslaLogo from '../assets/teslaLogoSmall.svg'
 import MenuIcon from '@material-ui/icons/Menu';
 function Header() {

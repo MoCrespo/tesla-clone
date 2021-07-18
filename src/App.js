@@ -1,4 +1,4 @@
-import './App.css';
+import './main.css';
 import Header from './components/Header'
 import Accessories from './assets/Desktop-Accessories.jpg'
 import ModelS from "./assets/Desktop-ModelS.jpeg";
